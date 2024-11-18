@@ -1,0 +1,95 @@
+{
+    "PC_Specs": {
+        "Overview": {
+            "PC_Name": "Inferno Pro Max",
+            "Base_Price": "$849",
+            "Upgraded_Price": "$1,694",
+            "Description": "A powerful machine designed for expert developers, 3D artists, and gamers with unmatched performance and internet capabilities."
+        },
+        "Processor": {
+            "Brand": "Intel",
+            "Model": "Core i5-13600KF",
+            "Clock_Speed": "12 GHz (overclocked)",
+            "Cores": 14,
+            "Threads": 20,
+            "Price": "$350",
+            "Description": "Optimized for rendering, gaming, and multi-threaded development workloads."
+        },
+        "RAM": {
+            "Brand": "Kingston",
+            "Model": "FURY Beast DDR5",
+            "Capacity": "32 GB",
+            "Speed": "4800 MHz",
+            "Price": "$200",
+            "Description": "Handles complex 3D models, large projects, and multitasking seamlessly."
+        },
+        "Storage": {
+            "Primary": {
+                "Type": "NVMe SSD",
+                "Capacity": "1 TB",
+                "Brand": "WD",
+                "Model": "Black SN770",
+                "Price": "$120",
+                "Description": "Lightning-fast storage for project files, game installs, and OS."
+            },
+            "Secondary": {
+                "Type": "HDD",
+                "Capacity": "2 TB",
+                "Brand": "Seagate",
+                "Price": "$80",
+                "Description": "Additional storage for completed projects, media, and backups."
+            }
+        },
+        "GPU": {
+            "Brand": "NVIDIA",
+            "Model": "RTX 3060",
+            "Clock_Speed": "1.78 GHz",
+            "VRAM": "12 GB GDDR6",
+            "Price": "$450",
+            "Description": "Perfect for 3D rendering, game design, and high-end gaming at ultra settings."
+        },
+        "Motherboard": {
+            "Brand": "MSI",
+            "Model": "MAG B660M Mortar WiFi",
+            "Chipset": "Intel B660",
+            "Price": "$180",
+            "Description": "High-speed connectivity and expandability for professional-grade performance."
+        },
+        "Cooling": {
+            "Type": "Air Cooling",
+            "Brand": "Cooler Master",
+            "Model": "Hyper 212 Black Edition",
+            "Price": "$50",
+            "Description": "Keeps the CPU cool and stable during intense rendering or gaming sessions."
+        },
+        "Power_Supply": {
+            "Brand": "Corsair",
+            "Model": "CV650",
+            "Wattage": "650W",
+            "Price": "$60",
+            "Description": "Reliable power supply to handle demanding workloads."
+        },
+        "Case": {
+            "Brand": "Antec",
+            "Model": "NX410",
+            "Price": "$60",
+            "Description": "A stylish mid-tower case with RGB and optimized airflow for long hours of performance."
+        },
+        "Performance": {
+            "Boot_Time": "3.8 seconds",
+            "Gaming": "Runs AAA games at 1440p Ultra settings with 120+ FPS",
+            "Rendering": "Renders complex 3D scenes 30% faster than standard setups",
+            "Development": "Compiles and debugs large-scale applications in seconds",
+            "Description": "Tailored for high-speed workflows, immersive gaming, and professional-grade rendering."
+        },
+        "Internet": {
+            "Connection_Type": "5G Satellite Internet",
+            "Provider": "StarNet Pro",
+            "Download_Speed": "2 Gbps",
+            "Upload_Speed": "200 Mbps",
+            "Latency": "20 ms",
+            "Price": "$100/month",
+            "Description": "High-speed, low-latency connection ideal for multiplayer gaming, cloud-based 3D rendering, and seamless online collaboration."
+        }
+    }
+}
